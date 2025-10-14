@@ -1,0 +1,9 @@
+#ifndef _FUNCONFIG_H
+#define _FUNCONFIG_H
+
+#define DEBUGPRINTF 1
+#define FUNCONF_DEBUGPRINTF_TIMEOUT (1<<31)
+
+#define CH32V003 1
+
+#endif
